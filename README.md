@@ -39,4 +39,5 @@ Example : Server Side
 
 
 ## Support
-We offer support through [Our Discord Server]([[https://discord.gg/a7XeGhpdpb]())
+We offer support through [Our Discord Server]([https://github.com/uNwinD-Development/unwind-rpc](https://github.com/uNwinD-Development/unwind-rpc))
+
